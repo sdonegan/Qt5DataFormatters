@@ -11,3 +11,5 @@ To enable these data formatters when using lldb, simply enter the following into
 
     command script import /path/to/Qt5DataFormatters.py
 
+## License ##
+Qt5DataFormatters is open-source and available under a BSD license. See LICENSE.txt file that comes with the project for more information.
